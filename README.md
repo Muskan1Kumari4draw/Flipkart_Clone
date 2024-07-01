@@ -1,2 +1,2 @@
 # Flipkart_Clone
-This is clonr code of Flipkart 
+This is clonne code of Flipkart 
